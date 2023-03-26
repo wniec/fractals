@@ -1,4 +1,4 @@
-package mandelbrot;
+package fractals;
 
 import static java.lang.Math.pow;
 
